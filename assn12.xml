@@ -1,0 +1,20 @@
+<books>
+           <book id="1">
+		<title id = "1">Harry Pottor and the methods of Rationality</title>
+		<author id="1">Eliezer Yudkowsky, JK Rowling</author>
+                <age id="1">30,45</age>
+ 		<children id = "1"> false, true</children>
+           </book>
+           <book id="2">
+		<title id ="2" >Artemis Fowl</title>
+		<author id="2">Eoin Colfer</author>
+                <age id="2">50</age>
+ 		<children id = "2">true</children>
+           </book>
+           <book id="3">
+		<title id ="3">Children of the Lamp</title>
+		<author id="3">PB Kerr</author>
+                <age id="3">57</age>
+ 		<children id = "3">true</children>
+           </book>
+</books>
