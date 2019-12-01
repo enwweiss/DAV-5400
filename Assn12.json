@@ -1,4 +1,4 @@
-{"Books":[
+[
 {"title" : "Harry Potter and the Methods of Rationality",
 "author": ["Eliezer Yudkowsky","JK Rowling"],
 "age": ["30", "45"],
@@ -11,4 +11,4 @@
 "author": "PB Kerr",
 "age": "57",
 "Children" : true              }
-]}
+]
