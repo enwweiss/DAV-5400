@@ -1,0 +1,12 @@
+{"title" : "Harry Potter and the Methods of Rationality",
+"author": ["Eliezer Yudkowsky","JK Rowling"],
+"age": ["30", "45"],
+"Children" : [false, true]     },
+{ "title" : "Artemis Fowl",
+"name": "Eoin Colfer",
+ "age": "50",
+"Children" : true              },
+{ "title" : "The Children of the Lamp",
+"name": "PB Kerr",
+"age": "57",
+"Children" : true              }
